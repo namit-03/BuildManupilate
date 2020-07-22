@@ -1,0 +1,9 @@
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\BaiscDocker5_App.csprojAssemblyReference.cache
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\staticwebassets\BaiscDocker5_App.StaticWebAssets.Manifest.cache
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\staticwebassets\BaiscDocker5_App.StaticWebAssets.xml
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\BaiscDocker5_App.AssemblyInfoInputs.cache
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\BaiscDocker5_App.AssemblyInfo.cs
+C:\Users\Namit Pundir\source\repos\BaiscDocker5_App\obj\Debug\netcoreapp3.1\BaiscDocker5_App.RazorTargetAssemblyInfo.cache
